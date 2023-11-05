@@ -20,7 +20,7 @@
 GoogleDriveにすべて保存し、DriveToWebによってhttps://okuhukunoseikabutunoheya.on.drv.tw/ というリンクで公開していたものです
 
 現在直リンクで上記に飛ぶと、千年戦争アイギス関連をメインで公開しており、
-https://okuhukunoseikabutunoheya.on.drv.tw/AIGIS/aigis　以外のURLは404が帰るはずです。
+https://okuhukunoseikabutunoheya.on.drv.tw/AIGIS/aigis 　　以外のURLは404が帰るはずです。
 
 しかし、これらのページは当初から現在に至るまでホームページアイコンが設定できない他、PHPが動作しないという問題がある。
 また普段の共有ファイル（旧Twitterやdiscordで公開・配布しているプログラムと画像しか入ってはないんですがね）
